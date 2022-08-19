@@ -1,5 +1,3 @@
-package lesson4_CountingElements;
-
 public class lesson4_4 {
 	// you can also use imports, for example:
 	// import java.util.*;
