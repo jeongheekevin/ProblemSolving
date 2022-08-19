@@ -1,5 +1,3 @@
-package lesson4_CountingElements;
-
 public class lesson4_3_MaxCounters {
 	class Solution {
 		public int[] solution(int N, int[] A) {
